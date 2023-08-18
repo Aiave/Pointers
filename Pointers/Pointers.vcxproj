@@ -182,6 +182,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="examples\guide_pointers.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="examples\stream_examples.c" />
   </ItemGroup>

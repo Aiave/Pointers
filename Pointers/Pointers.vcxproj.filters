@@ -21,6 +21,9 @@
     <ClCompile Include="examples\stream_examples.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="examples\guide_pointers.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="examples\examples.h">
