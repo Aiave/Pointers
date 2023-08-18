@@ -1,7 +1,11 @@
 ﻿#include <stdio.h>
+#include <locale.h>
+#include "examples\examples.h"
 
 int main()
 {
+    setlocale(LC_ALL, "Russian");
+
     int number = 5;
     int *pointer = NULL;
     pointer = &number;
@@ -12,6 +16,9 @@ int main()
         *pointer = 7;
         printf("%d\n", number);
     }
+
+    pointers();
+
     return 0;
 }
 

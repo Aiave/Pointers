@@ -183,6 +183,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
+    <ClCompile Include="examples\stream_examples.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="examples\examples.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
