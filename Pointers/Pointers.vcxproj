@@ -183,11 +183,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="examples\guide_pointers.c" />
+    <ClCompile Include="examples\guide_pointers_functions.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="examples\stream_examples.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="examples\examples.h" />
+    <ClInclude Include="examples\guide_pointers_functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
