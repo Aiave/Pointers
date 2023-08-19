@@ -1,11 +1,11 @@
-﻿#include<stdio.h>
+﻿#include <stdio.h>
 
 //Спасибо Begin End!
 
 void guide()
 {
     int number = 5;
-    int* pointer = NULL;
+    int *pointer = NULL;
     pointer = &number;
     *pointer = 2;
 

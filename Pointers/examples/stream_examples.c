@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+﻿#include <stdio.h>
 
 //Спасибо 32BIT Academy!
 
