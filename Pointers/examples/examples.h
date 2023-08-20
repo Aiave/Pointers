@@ -4,5 +4,6 @@
 void guide();
 void guide_functions();
 void pointers();
+void good_notes();
 
 #endif
