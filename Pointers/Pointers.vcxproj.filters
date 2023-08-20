@@ -30,6 +30,9 @@
     <ClCompile Include="examples\good_notes_from_husband.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="examples\number_by_bytes.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="examples\examples.h">
