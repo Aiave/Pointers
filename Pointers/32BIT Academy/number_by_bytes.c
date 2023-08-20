@@ -4,8 +4,6 @@
 
 void number_by_bytes()
 {
-	printf("\n");
-
 	int number = 464701; //0*256^3 + 7*256^2 + 23*256 + 61
 	int *pointer = &number;
 

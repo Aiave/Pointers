@@ -18,27 +18,33 @@
     <ClCompile Include="main.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="examples\stream_examples.c">
+    <ClCompile Include="32BIT Academy\pointers_examples.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="examples\guide_pointers.c">
+    <ClCompile Include="Begin End\guide_pointers.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="examples\guide_pointers_functions.c">
+    <ClCompile Include="Begin End\guide_pointers_functions.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="examples\good_notes_from_husband.c">
+    <ClCompile Include="Good Notes\good_notes_from_husband.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="examples\number_by_bytes.c">
+    <ClCompile Include="32BIT Academy\number_by_bytes.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="examples\examples.h">
+    <ClInclude Include="Begin End\guide_pointers_functions.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="examples\guide_pointers_functions.h">
+    <ClInclude Include="32BIT Academy\32bit_academy.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Begin End\begin_end.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Good Notes\good_notes.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

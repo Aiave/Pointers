@@ -182,16 +182,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="examples\guide_pointers.c" />
-    <ClCompile Include="examples\guide_pointers_functions.c" />
-    <ClCompile Include="examples\good_notes_from_husband.c" />
-    <ClCompile Include="examples\number_by_bytes.c" />
+    <ClCompile Include="Begin End\guide_pointers.c" />
+    <ClCompile Include="Begin End\guide_pointers_functions.c" />
+    <ClCompile Include="Good Notes\good_notes_from_husband.c" />
+    <ClCompile Include="32BIT Academy\number_by_bytes.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="examples\stream_examples.c" />
+    <ClCompile Include="32BIT Academy\pointers_examples.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="examples\examples.h" />
-    <ClInclude Include="examples\guide_pointers_functions.h" />
+    <ClInclude Include="32BIT Academy\32bit_academy.h" />
+    <ClInclude Include="Begin End\begin_end.h" />
+    <ClInclude Include="Begin End\guide_pointers_functions.h" />
+    <ClInclude Include="Good Notes\good_notes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
