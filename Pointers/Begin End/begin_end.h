@@ -3,5 +3,6 @@
 
 void guide();
 void guide_functions();
+void guide_structure();
 
 #endif

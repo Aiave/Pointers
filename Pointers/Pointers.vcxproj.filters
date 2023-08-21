@@ -36,6 +36,9 @@
     <ClCompile Include="32BIT Academy\array_example.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Begin End\guide_pointers_structure.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Begin End\guide_pointers_functions.h">

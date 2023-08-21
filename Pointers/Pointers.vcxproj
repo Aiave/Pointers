@@ -187,6 +187,7 @@
     <ClCompile Include="Begin End\guide_pointers_functions.c" />
     <ClCompile Include="Good Notes\good_notes_from_husband.c" />
     <ClCompile Include="32BIT Academy\number_by_bytes.c" />
+    <ClCompile Include="Begin End\guide_pointers_structure.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="32BIT Academy\pointers_examples.c" />
   </ItemGroup>
