@@ -182,6 +182,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="32BIT Academy\array_example.c" />
     <ClCompile Include="Begin End\guide_pointers.c" />
     <ClCompile Include="Begin End\guide_pointers_functions.c" />
     <ClCompile Include="Good Notes\good_notes_from_husband.c" />
