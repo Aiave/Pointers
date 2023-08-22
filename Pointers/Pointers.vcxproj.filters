@@ -53,5 +53,8 @@
     <ClInclude Include="Good Notes\good_notes.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="Begin End\guide_pointers_structure.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -196,6 +196,7 @@
     <ClInclude Include="Begin End\begin_end.h" />
     <ClInclude Include="Begin End\guide_pointers_functions.h" />
     <ClInclude Include="Good Notes\good_notes.h" />
+    <ClInclude Include="Begin End\guide_pointers_structure.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
