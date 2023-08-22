@@ -5,7 +5,7 @@
 void pointers()
 {
 
-    int* p;
+    int *p;
     int a = 5;
     p = &a;
 

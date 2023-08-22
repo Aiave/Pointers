@@ -16,7 +16,7 @@ int function(int a)
 	return a + 1;
 }
 
-void procedure(int* x)
+void procedure(int *x)
 {
 	if (x != NULL)
 		*x = *x + 1;
@@ -43,7 +43,7 @@ void guide_functions()
 Увеличиваем значение по адресу указателя x на 1 (* - оператор обращения по адресу)
 Для этого, вызывая функцию, используем &, чтобы передать адрес переменной, которая записывается в указатель x (& - операция взятия адреса)
 
-void procedure(int* x)
+void procedure(int *x)
 {
 	if (x != NULL)
 		*x = *x + 1;
